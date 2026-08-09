@@ -1,7 +1,7 @@
 {
-    "name": "guitar-chord-ja",
-    "version": "0.0.20",
-    "description": "Guitar chord extension for BBC micro:bit V2. Category label in Japanese: ギターコード. Button1=P1, Button2=P2, Button3=P9; outputs P8/P14/P16.",
+    "name": "guitar-chord-v17",
+    "version": "0.0.18",
+    "description": "Three-note Guitar Chord extension with Button1=P1, Button2=P2, Button3=P9 for BBC micro:bit V2",
     "dependencies": {
         "core": "*"
     },

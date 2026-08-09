@@ -1,6 +1,6 @@
-//% color=#F2B705 icon="\uf7a6" block="ギターコード"
+//% color=#F2B705 icon="\uf028" block="Guitar Chord"
 //% groups=['スイッチ割り当て', '和音', '個別出力']
-namespace multitone {
+namespace guitarchord {
     /**
      * 3音で鳴らす和音を選びます。
      * 7th / add9 など本来4音のコードは、3音に省略したボイシングです。
