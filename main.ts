@@ -1,4 +1,4 @@
-//% color=#F2B705 icon="\uf028" block="Guitar Chord"
+//% color=#F2B705 icon="\uf7a6" block="ギターコード"
 //% groups=['スイッチ割り当て', '和音', '個別出力']
 namespace multitone {
     /**
