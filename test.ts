@@ -1,3 +1,3 @@
-guitarchord.assignChord(guitarchord.ChordButton.Button1, guitarchord.Chord.C)
-guitarchord.assignChord(guitarchord.ChordButton.Button2, guitarchord.Chord.G)
-guitarchord.assignChord(guitarchord.ChordButton.Button3, guitarchord.Chord.Am)
+multitone.assignChord(multitone.ChordButton.Button1, multitone.Chord.C)
+multitone.assignChord(multitone.ChordButton.Button2, multitone.Chord.G)
+multitone.assignChord(multitone.ChordButton.Button3, multitone.Chord.Am)

@@ -1,7 +1,7 @@
 {
-    "name": "guitar-chord-v17",
-    "version": "0.0.18",
-    "description": "Three-note Guitar Chord extension with Button1=P1, Button2=P2, Button3=P9 for BBC micro:bit V2",
+    "name": "multitone-v2-buttons",
+    "version": "0.0.19",
+    "description": "Three-tone Guitar Chord extension for BBC micro:bit V2. Button1=P1, Button2=P2, Button3=P9; outputs P8/P14/P16.",
     "dependencies": {
         "core": "*"
     },
