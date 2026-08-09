@@ -1,0 +1,21 @@
+{
+    "name": "guitar-chord-v17",
+    "version": "0.0.17",
+    "description": "Three-note Guitar Chord extension with Button1=P1, Button2=P2, Button3=P9 for BBC micro:bit V2",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "multitone.cpp",
+        "icon.png"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
