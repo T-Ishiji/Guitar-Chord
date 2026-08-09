@@ -62,3 +62,7 @@ Font Awesome 4 の headphones (Unicode f025) を使用。カテゴリ色は #F2B
 
 ## v0.0.17
 MakeCodeのカテゴリ更新を確実にするため、TypeScript namespace を `guitarchord` に変更しました。
+
+
+## v0.0.18
+サムネイル画像（icon.png）は同梱していません。
